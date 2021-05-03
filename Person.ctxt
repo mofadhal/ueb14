@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Person
+comment0.text=\r\nDiese\ Klasse\ behandelt\ sich\ um\ einen\ Person\ ,\ der\ vorname\ und\ nachname\ hat\ .\r\n\r\n\ @author\ (Mofadhal\ Al-Manari\ und\ Leen\ AlKhadraa)\r\n\ @version\ (27.04.2021)\r\n
+comment1.params=vorname\ nachname
+comment1.target=Person(java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ ist\ der\ konstruktor\ dieser\ Klasse\ .\r\n\ @param\ vorname\r\n\ @param\ nachname\r\n
+comment2.params=
+comment2.target=java.lang.String\ getVorname()
+comment2.text=\r\n\ \r\n\ @return\ der\ gespeicherte\ vorname\ .\r\n
+comment3.params=
+comment3.target=java.lang.String\ getNachname()
+comment3.text=\r\n\ \r\n\ @return\ der\ gespeicherte\ nachname\ .\r\n
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment5.params=obj
+comment5.target=boolean\ equals(java.lang.Object)
+numComments=6

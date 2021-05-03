@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Uhrzeit
+comment0.text=\r\n\ Diese\ Klasse\ behandelt\ sich\ um\ Stunde\ und\ Minuten\ .\r\n\r\n\ @author\ (Mofadhal\ Al-Manari\ und\ Leen\ AlKhadraa)\r\n\ @version\ (27.04.2021)\r\n
+comment1.params=stunde\ minute
+comment1.target=Uhrzeit(int,\ int)
+comment1.text=\r\n\ ist\ der\ konstruktor\ dieser\ Klasse\ .\r\n\ @param\ stunde\r\n\ @param\ minute\r\n
+comment2.params=
+comment2.target=int\ getStunde()
+comment2.text=\r\n\ \r\n\ @return\ die\ gespeicherte\ stund\ in\ dieser\ Klasse\ .\r\n
+comment3.params=
+comment3.target=int\ getMinute()
+comment3.text=\r\n\ \r\n\ @return\ die\ gespeicherte\ stund\ in\ dieser\ Klasse\ .\r\n
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment5.params=obj
+comment5.target=boolean\ equals(java.lang.Object)
+numComments=6

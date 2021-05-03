@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Mitarbeiter
+comment0.text=\r\n\ Diese\ Klasse\ behandelt\ sich\ um\ einen\ Mitarbeiter\ und\ seine\ Resevierung\ in\ einer\ Liste\ einzufuegen.\r\n\r\n\ @author\ (Mofadhal\ Al-Manari\ und\ Leen\ AlKhadraa)\ \r\n\ @version\ (27.04.2021)\r\n
+comment1.params=vorname\ nachname\ email
+comment1.target=Mitarbeiter(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ \ ist\ der\ konstruktor\ dieser\ Klasse\ .\r\n\ @param\ vorname\ //\ \ Vorname\ des\ Mitarbeiters\ .\r\n\ @param\ nachname\ //\ \ Nachname\ des\ Mitarbeiters\ .\r\n\ @param\ email\ //\ E-Mail\ Adresse\ des\ Mitarbeiters\ .\r\n
+comment2.params=
+comment2.target=java.lang.String\ getEmail()
+comment2.text=\r\n\ Diese\ Methode\ zeigt\ die\ gespeichert\ E-Mail\ Adresse\ .\r\n\ @return\ E-Mail\ Adresse\ des\ Mitarbeiters\ .\r\n
+comment3.params=email
+comment3.target=java.lang.String\ setEmail(java.lang.String)
+comment3.text=\r\n\ l\u00E4sst\ sich\ die\ E-Mail\ adresse\ geaendert\ werden\ k\u00F6nnen\ .\r\n\ @param\ email\r\n\ @return\ die\ E-Mail\ in\ dieser\ Klass\ \=\ die\ neue\ E-Mail\ .\r\n
+comment4.params=raum\ beginn\ ende\ bemerkung
+comment4.target=void\ reserviere(Raum,\ Uhrzeit,\ Uhrzeit,\ java.lang.String)
+comment4.text=\r\n\ \ speichert\ die\ Information\ der\ Resevierung\ \r\n\ und\ rueft\ die\ Methoden\ aus\ die\ Resvierung-Klasse.\r\n\ @param\ raum\ //\ etage\ -\ gebaude\ .\ raum\ .\r\n\ @param\ beginn\ //\ stund\ \:\ minute\ .\r\n\ @param\ ende\ //\ stund\ \:\ minute\ .\r\n\ @param\ bemerkung\ //\ notizen\ .\r\n
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment5.text=\r\n\ ausgegeben\:\ vorname\ nachname\ (email)\ \r\n
+comment6.params=obj
+comment6.target=boolean\ equals(java.lang.Object)
+numComments=7

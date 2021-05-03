@@ -1,0 +1,35 @@
+#BlueJ class context
+comment0.target=Reservierung
+comment0.text=\r\n\ Diese\ Klasse\ behandelt\ sich\ um\ Resevierung\ einer\ Raum\ mit\ der\ Beginnzeit\ und\ Endezeit.\r\n\r\n\ @author\ (Mofadhal\ Al-Manari\ und\ Leen\ AlKhadraa)\r\n\ @version\ (27.04.2021)\r\n
+comment1.params=beginn\ ende
+comment1.target=Reservierung(Uhrzeit,\ Uhrzeit)
+comment1.text=\r\n\ ist\ der\ konstruktor\ dieser\ Klasse\ .\r\n\ @param\ beginn\ //\ beginn\ der\ Resevierung\ (stunde\ ,\ minute)\r\n\ @param\ ende\ //\ beginn\ der\ Resevierung\ (stunde\ ,\ minute)\r\n
+comment10.params=
+comment10.target=java.lang.String\ toString()
+comment11.params=obj
+comment11.target=boolean\ equals(java.lang.Object)
+comment2.params=mitarbeiter
+comment2.target=Mitarbeiter\ setMitarbeiter(Mitarbeiter)
+comment2.text=\r\n\ l\u00E4sst\ sich\ die\ Info\ des\ Mitarbeiters\ geaendert\ werden\ k\u00F6nnen\r\n\ @param\ mitarbeiter\r\n\ @return\ neu\ Mitarbeiter\ (vorname\ ,\ nachname\ ,\ email)\r\n
+comment3.params=raum
+comment3.target=void\ setRaum(Raum)
+comment3.text=\r\n\ l\u00E4sst\ sich\ die\ Info\ des\ Raums\ geaendert\ werden\ k\u00F6nnen\ .\r\n\ @param\ raum\ //(etageNummer\ ,\ gebaudeNummer\ ,\ raumNummer\ )\ \r\n
+comment4.params=
+comment4.target=Raum\ getRaum()
+comment4.text=\r\n\ get\ die\ Info\ des\ Raums\ (etageNummer\ ,\ gebaudeNummer\ ,\ raumNummer\ )\ \r\n\ @return\ das\ gespeicherte\ raum\ in\ der\ Klasse\ .\r\n
+comment5.params=
+comment5.target=Mitarbeiter\ getMitarbeiter()
+comment5.text=\r\n\ \r\n\ @return\ das\ gespeicherte\ Mitarbeiter\ \ .\r\n
+comment6.params=
+comment6.target=java.lang.String\ getBemerkung()
+comment6.text=\r\n\ \r\n\ @return\ die\ gespeicherte\ bemerkung\ in\ dieser\ Klasse\ .\r\n
+comment7.params=
+comment7.target=Uhrzeit\ getBeginn()
+comment7.text=\r\n\ \r\n\ @return\ der\ gespeicherte\ Beginnzeit\ der\ Resevierung\ eines\ Raums\ .\r\n
+comment8.params=
+comment8.target=Uhrzeit\ getEnde()
+comment8.text=\r\n\ \r\n\ @return\ der\ gespeicherte\ Endezeit\ der\ Resevierung\ eines\ Raums\ .\r\n
+comment9.params=bemerkung
+comment9.target=java.lang.String\ setBemerkung(java.lang.String)
+comment9.text=\r\n\ l\u00E4sst\ sich\ die\ bemerkung\ geaendert\ werden\ k\u00F6nnen\ .\r\n\ @param\ bemerkung\ \r\n\ @return\ \ bemerkung\ in\ dieser\ Klass\ \=\ eingegebene\ bemerkung\ .\r\n
+numComments=12
